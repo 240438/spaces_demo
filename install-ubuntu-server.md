@@ -21,7 +21,7 @@ site_name: "Ubuntu"
 - [13\. Install software](#13-install-software)
 - [14\. Installation complete](#14-installation-complete)
 - [15\. What next?](#15-what-next)
-  - [[Finding help](#p-39325-finding-help)](#finding-helpp-39325-finding-help)
+  - [Finding help](#p-39325-finding-help)
 
 ## 1\. Overview
 
