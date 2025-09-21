@@ -1,7 +1,6 @@
 ---
 title: "Install Ubuntu Server | Ubuntu"
 source_url: "https://ubuntu.com/tutorials/install-ubuntu-server#1-overview"
-retrieved_at: "2025-09-21T15:08:21.897Z"
 site_name: "Ubuntu"
 ---
 
