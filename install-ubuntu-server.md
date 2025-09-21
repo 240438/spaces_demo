@@ -21,7 +21,7 @@ site_name: "Ubuntu"
 - [13\. Install software](#13-install-software)
 - [14\. Installation complete](#14-installation-complete)
 - [15\. What next?](#15-what-next)
-  - [[Finding help](#p-39325-finding-help)](#finding-helpp-39325-finding-help)
+  - [Finding help](#finding-help)
 
 ## 1\. Overview
 
@@ -192,7 +192,7 @@ If you are new to Ubuntu Server, we’d recommend reading the [Server Guide](htt
 
 You can also check out the latest on Ubuntu Server, and what others are using it for on the [Ubuntu Server pages](https://www.ubuntu.com/server).
 
-### [Finding help](#p-39325-finding-help)
+### Finding help
 
 The Ubuntu community, for both desktop and server, is one of the friendliest and most well populated you can find. That means if you get stuck, someone has probably already seen and solved the same problem.
 
